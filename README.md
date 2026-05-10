@@ -1,17 +1,46 @@
-# app_01
+# Instagram Clone 📸
 
-A new Flutter project.
+A simple Instagram UI clone built with **Flutter**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+<img src="ScreenShots/Instagram_appbar.png" width="300" alt="App Screenshot"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# AppBar_Instagram
+## ✨ Features
+
+- Instagram-style AppBar with logo, heart, and share icons
+- Clean and minimal UI
+- Built with Flutter Material Design
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Android Studio or VS Code
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) - UI framework
+- [Dart](https://dart.dev/) - Programming language
+
+---
+
+## 📄 License
+
+This project is for learning purposes only.
